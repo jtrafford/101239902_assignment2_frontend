@@ -1,0 +1,10 @@
+.col-width {
+  width: 1px;
+  white-space: nowrap;
+}
+
+.spinner {
+  left: 50%;
+  margin-left: -1em;
+  position: absolute;
+}
